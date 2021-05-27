@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Merhaba <b>GitHub sayfama hoşgeldiniz...</b></h1>
+<p align="center">
 
 <!--
 **MazlumAltay/MazlumAltay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
