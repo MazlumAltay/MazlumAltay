@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba <b>GitHub sayfama hoşgeldiniz...</b></h1>
+<h1 align="center">Hello! <b>Welcome to my GitHub page..!</b></h1>
 <p align="center">
 
 <!--
