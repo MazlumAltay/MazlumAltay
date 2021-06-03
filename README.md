@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-   <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="400" />
+   <img src="https://i.pinimg.com/originals/b7/63/8e/b7638ec89f61a6c5ff0f88c5cab4f881.gif" />
 </p>
 
 <p align="center">
