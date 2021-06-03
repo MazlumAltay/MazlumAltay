@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MazlumAltay&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" width="400"alt="MazlumAltay" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MazlumAltay&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" width="600" alt="MazlumAltay" />
 </p>
 <h2 align="center">:toolbox: I'm familiar with :toolbox:</h2>
 <p align="center">
