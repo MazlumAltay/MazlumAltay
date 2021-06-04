@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-   <img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" />
+   <img src="https://i.pinimg.com/originals/b7/63/8e/b7638ec89f61a6c5ff0f88c5cab4f881.gif" />
 </p>
 
 <p align="center">
