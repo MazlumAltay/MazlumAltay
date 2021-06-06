@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="css" />
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="js" />
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff" alt="react" />
+<img src="https://img.shields.io/badge/-csharp-61DAFB?style=flat-square&logo=csharp&logoColor=ffffff" alt="csharp" />
 </p>
 
